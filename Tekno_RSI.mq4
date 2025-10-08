@@ -390,8 +390,6 @@ if(Crossover_alert == true)
 else
 ObjectDelete(0,"Crossover");
 
-
-//--- return value of prev_calculated for next call
    return(rates_total);
   }
 //+------------------------------------------------------------------+
@@ -435,7 +433,3 @@ A = "is below";
 
 return A;
 }
-
-//+------------------------------------------------------------------+
-// End of translated indicator
-//+------------------------------------------------------------------+
