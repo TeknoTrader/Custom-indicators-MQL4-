@@ -1,7 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                                 Trend_killer.mq4 |
 //|                              Chimenti Nicola (@tekno_trader)     |
-//|              https://instagram.com/tekno_trader?utm_medium=copy_link |
 //+------------------------------------------------------------------+
 #property copyright "Chimenti Nicola (@tekno_trader)"
 #property link      "https://www.fiverr.com/teknonicola"
