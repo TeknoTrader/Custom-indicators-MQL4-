@@ -90,9 +90,11 @@ Distributed under the **MIT License** — free to use, modify, and share with pr
 ## 👤 Author
 
 **Nicola Chimenti**  
-MQL4 Developer — Trading Systems & Graphical Tools  
+MQL4 Developer & Business Analyst
 🌐 [MQL5 Profile](https://www.mql5.com/it/users/teknotrader/seller#!category=2)  
+
 📧 [Fiverr profile](https://www.fiverr.com/sellers/teknonicola/)
+
 ⌨ Contact: teknotrader.nc@gmail.com
 
 ---
