@@ -99,6 +99,3 @@ MQL4 Developer — Trading Systems & Graphical Tools
 
 ⭐ **If you find these indicators helpful, please give the repository a star — it helps support the project!**
 
-
-## 📂 Repository Structure
-
